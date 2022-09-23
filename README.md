@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andy Truong</h1>
+<h1 align="center">Welcome 👋, my name is Andy Truong</h1>
 <h3 align="center">A passionate software developer from Oregon.</h3>
 <h1 align="center"> </h1>
 
