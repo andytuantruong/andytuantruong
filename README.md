@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **source control, SQL, and Python.**
 
-- 💬 Ask me about **OOP, statistics, and programming**
+- 💬 Ask me about **OOP, statistics, and music**
 
 - 📫 How to reach me **andytuantruong@gmail.com**
 
