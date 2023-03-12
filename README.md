@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **source control, SQL, and Python.**
 
-- 💬 Ask me about **OOP, statistics, and music**
+- 💬 Ask me about **OOP, statistics, and sports**
 
 - 📫 How to reach me **andytuantruong@gmail.com**
 
