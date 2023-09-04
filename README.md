@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **andytuantruong@gmail.com**
 
-- ⚡ Fun fact **I have been top < 1% of Riot Games' Teamfight Tactics since June 2019**
+- ⚡ Fun fact **I have achieved top < 1% of Riot Games' Teamfight Tactics from June 2019 to June 2023**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
