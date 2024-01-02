@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **my B.S in Computer Science**
 
-- 🌱 I’m currently learning **source control, SQL, and Python.**
+- 🌱 I’m currently learning **Python, statistical modeling, and algorithms.**
 
-- 💬 Ask me about **OOP, statistics, and sports**
+- 💬 Ask me about **statistics, sports, fitness, +EV**
 
 - 📫 How to reach me **andytuantruong@gmail.com**
 
